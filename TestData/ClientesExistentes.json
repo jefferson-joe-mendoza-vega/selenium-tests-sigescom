@@ -1,0 +1,24 @@
+{
+  "clientes": {
+    "carlosMendoza": {
+      "nombre": "Carlos Alberto Mendoza Quiroz",
+      "dni": "72854193"
+    },
+    "rosaVillarreal": {
+      "nombre": "Rosa Beatriz Villarreal Campos",
+      "dni": "47829156"
+    },
+    "jorgeFlores": {
+      "nombre": "Jorge Luis Flores S�nchez",
+      "dni": "58471629"
+    },
+    "anaRodriguez": {
+      "nombre": "Ana Patricia Rodr�guez Torres",
+      "dni": "81247593"
+    },
+    "mariaQuispe": {
+      "nombre": "Mar�a Elena Quispe Huam�n",
+      "dni": "63194827"
+    }
+  }
+}
